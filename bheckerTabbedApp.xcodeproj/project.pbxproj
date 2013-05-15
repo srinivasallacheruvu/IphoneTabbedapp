@@ -23,6 +23,8 @@
 		4D8FC7751743C35800B7A1E9 /* HelloWorldSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D8FC7741743C35800B7A1E9 /* HelloWorldSecondViewController.m */; };
 		4D8FC7771743C35800B7A1E9 /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D8FC7761743C35800B7A1E9 /* second.png */; };
 		4D8FC7791743C35800B7A1E9 /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4D8FC7781743C35800B7A1E9 /* second@2x.png */; };
+		4D8FC7821743CF1D00B7A1E9 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D8FC7801743CF1D00B7A1E9 /* ThirdViewController.m */; };
+		4D8FC7861743D80D00B7A1E9 /* FourthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D8FC7851743D80D00B7A1E9 /* FourthViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +50,10 @@
 		4D8FC7741743C35800B7A1E9 /* HelloWorldSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloWorldSecondViewController.m; sourceTree = "<group>"; };
 		4D8FC7761743C35800B7A1E9 /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		4D8FC7781743C35800B7A1E9 /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		4D8FC77F1743CF1D00B7A1E9 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		4D8FC7801743CF1D00B7A1E9 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		4D8FC7841743D80D00B7A1E9 /* FourthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourthViewController.h; sourceTree = "<group>"; };
+		4D8FC7851743D80D00B7A1E9 /* FourthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourthViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +73,10 @@
 		4D8FC7421743C35700B7A1E9 = {
 			isa = PBXGroup;
 			children = (
+				4D8FC7841743D80D00B7A1E9 /* FourthViewController.h */,
+				4D8FC7851743D80D00B7A1E9 /* FourthViewController.m */,
+				4D8FC77F1743CF1D00B7A1E9 /* ThirdViewController.h */,
+				4D8FC7801743CF1D00B7A1E9 /* ThirdViewController.m */,
 				4D8FC7571743C35700B7A1E9 /* bheckerTabbedApp */,
 				4D8FC7501743C35700B7A1E9 /* Frameworks */,
 				4D8FC74E1743C35700B7A1E9 /* Products */,
@@ -199,6 +209,8 @@
 				4D8FC7621743C35700B7A1E9 /* HelloWorldAppDelegate.m in Sources */,
 				4D8FC76E1743C35700B7A1E9 /* HelloWorldFirstViewController.m in Sources */,
 				4D8FC7751743C35800B7A1E9 /* HelloWorldSecondViewController.m in Sources */,
+				4D8FC7821743CF1D00B7A1E9 /* ThirdViewController.m in Sources */,
+				4D8FC7861743D80D00B7A1E9 /* FourthViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
